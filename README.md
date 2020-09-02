@@ -1,8 +1,6 @@
 # Monetizze-php
 Resultado do teste para DEV da empresa Monetizze realizado no dia 02/09. O codigo relacionado foi desenvolvido seguindo o roteiro e orientações contidas no documento de teste disponibilizado pela empresa.
 
-
-Leia com aten ̧c ̃ao os requisitos abaixo.
 •1  -  Desenvolva  uma  classe  que  possua  4  atributos  privados  que  dever ̃ao  conter  osseguintes dados:
 - Quantidade de dezenas, que dever ́a permitir apenas as seguintes opcoes:  6, 7, 8,9 ou 10.
 - Resultado
